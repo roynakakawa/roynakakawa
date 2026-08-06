@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi there 👋 I'm Roy
+
+Delivery/Product Leader • Technical Program Manager • Web3
+
+I help engineering teams deliver awesome products like blockchain infrastructure and open-source software.
+
+Currently working on:
+- ⚡ Mithril
+- 🌐 Cardano ecosystem
+- 🤖 AI Automation
+- 🚀 Delivery Excellence
 
 <!--
 **roynakakawa/roynakakawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
