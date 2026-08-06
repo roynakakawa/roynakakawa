@@ -12,6 +12,7 @@ Right now I'm focused on:
 - 🤖 AI Automation
 - 🚀 Delivery Excellence
 
+
 ## 🛠️
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat&logo=fedora&logoColor=white)
