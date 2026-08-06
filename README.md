@@ -3,8 +3,9 @@
 Delivery/Product Leader • Technical Program Manager • Web3
 
 I help engineering teams deliver awesome products like blockchain infrastructure and open-source software.
+Currently I'm the Head of Product at [Teragone](https://teragone-solutions.com/)
 
-Currently working on:
+Right now I'm focused on:
 - ⚡ Mithril
 - 🌐 Cardano ecosystem
 - 🤖 AI Automation
